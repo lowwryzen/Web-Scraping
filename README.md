@@ -3,7 +3,7 @@
 ### ``Aqui, nesse repositório estão meus pequenos projetos de web scraping na linguagem de programação python, por enquanto feitos com a lib Selenium.``
 
 <p align='center'>
-<img src= https://github.com/user-attachments/assets/20ff392b-30eb-4192-99cb-7bc43c501fec align='center' width=20%>
+<img src= https://github.com/user-attachments/assets/48093cf3-bfef-41ef-ada0-d154d51465a6 align='center' width=20%>
 </p>
 
 ## 📄 Organização do código
